@@ -42,12 +42,14 @@ main img {
     width: 90%;
     height: 40px;
     margin: 5px;
+    padding: 8px;
 }
 
 .relembrar {
     font-size: 0.7em;
     display: flex;
     padding: 4px;
+    gap: 5px;
 }
 
 #botao {
